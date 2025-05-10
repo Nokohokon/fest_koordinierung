@@ -2,6 +2,7 @@
 Koordiniere die Geschenke eines Festes.
 Du kannst "Konfi" durch z.B. "Hochzeit" ersetzen, pass aber auf, dass du, falls du die Tabelle in der DB zu "hochzeit" veränderst, dies auch im Code berücksichtigst. 
 # Du musst ein paar Sachen installieren, siehe requirements.txt
+# Denke auch daran, dein Discord Token in der .env zu speichern!
 
 # Achtung:
 # Der Command befindet sich in einem Cog!!
